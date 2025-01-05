@@ -47,4 +47,4 @@ Who invented the light bulb?,Nikola Tesla,Thomas Edison,Alexander Graham Bell,Ja
 Which is the fastest land animal?,Cheetah,Lion,Leopard,Jaguar,A
 Who composed the Four Seasons?,Mozart,Beethoven,Vivaldi,Chopin,C
 What does the CPU stand for?,Central Power Unit,Central Processing Unit,Control Processing Unit,Computer Processing Unit,B
-Who was the first woman to win a Nobel Prize?,Marie Curie,Rosalind Franklin,Dorothy Hodgkin,Malala Yousafzai,A  
+Who was the first woman to win a Nobel Prize?,Marie Curie,Rosalind Franklin,Dorothy Hodgkin,Malala Yousafzai,A
