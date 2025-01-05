@@ -1,0 +1,10 @@
+What is the largest planet in our solar system?,Earth,Mars,Jupiter,Saturn,C
+Who invented the telephone?,Alexander Graham Bell,Thomas Edison,Nikola Tesla,James Watt,A
+Which element has the chemical symbol 'O'?,Oxygen,Gold,Iron,Nitrogen,A
+What is the currency of Japan?,Yen,Won,Rupee,Dollar,A
+Who wrote the play 'Romeo and Juliet'?,William Shakespeare,Charles Dickens,Leo Tolstoy,George Orwell,A
+In which year did India gain independence?,1945,1947,1950,1952,B
+Which is the longest river in the world?,Amazon,Nile,Mississippi,Yangtze,B
+Which country is known as the Land of the Rising Sun?,China,South Korea,Japan,Thailand,C
+What is the smallest prime number?,1,2,3,5,B
+Which is the largest desert in the world?,Sahara,Arabian,Antarctic,Gobi,C
