@@ -1,10 +1,8 @@
 import os
 
-# File names for questions and scores
 QUESTIONS_FILE = 'questions.txt'
 SCORES_FILE = 'scores.txt'
 
-# Function to load questions from a file
 def load_questions():
     questions = []
     try:
@@ -22,12 +20,10 @@ def load_questions():
         print(f"Error: {QUESTIONS_FILE} not found.")
     return questions
 
-# Function to save score to a file
 def save_score(user_name, score, total):
     with open(SCORES_FILE, 'a') as file:
         file.write(f"{user_name},{score}/{total}\n")
 
-# Main function to run the quiz
 def run_quiz():
     questions = load_questions()
     if not questions:
