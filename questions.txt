@@ -8,3 +8,43 @@ Which is the longest river in the world?,Amazon,Nile,Mississippi,Yangtze,B
 Which country is known as the Land of the Rising Sun?,China,South Korea,Japan,Thailand,C
 What is the smallest prime number?,1,2,3,5,B
 Which is the largest desert in the world?,Sahara,Arabian,Antarctic,Gobi,C
+Who is known as the Father of Computers?,Charles Babbage,Alan Turing,John von Neumann,Steve Jobs,A
+Which gas do plants absorb from the atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,C
+What is the capital of Australia?,Sydney,Melbourne,Canberra,Brisbane,C
+Who painted the Mona Lisa?,Vincent van Gogh,Pablo Picasso,Leonardo da Vinci,Claude Monet,C
+Which country is famous for the Great Wall?,Japan,China,India,Mongolia,B
+What is the square root of 144?,10,12,14,16,B
+Which organ in the human body is responsible for pumping blood?,Brain,Stomach,Lungs,Heart,D
+In which continent is the Sahara Desert located?,Asia,Africa,South America,Australia,B
+Who discovered gravity?,Albert Einstein,Isaac Newton,Galileo Galilei,Nicolaus Copernicus,B
+Which planet is known as the Red Planet?,Mercury,Venus,Mars,Jupiter,C
+Which animal is known as the Ship of the Desert?,Camel,Horse,Elephant,Donkey,A
+What is the chemical formula for water?,H2O,CO2,O2,NaCl,A
+In which sport is a shuttlecock used?,Tennis,Badminton,Cricket,Football,B
+Who is the author of 'Harry Potter'?,J.R.R. Tolkien,J.K. Rowling,George R.R. Martin,Agatha Christie,B
+What is the national animal of India?,Elephant,Lion,Tiger,Peacock,C
+Which metal is liquid at room temperature?,Gold,Silver,Mercury,Iron,C
+What is the smallest country in the world?,Monaco,Maldives,Vatican City,Liechtenstein,C
+Which planet has the most moons?,Earth,Mars,Saturn,Jupiter,D
+Who was the first person to walk on the moon?,Buzz Aldrin,Neil Armstrong,Yuri Gagarin,Michael Collins,B
+What is the currency of the United Kingdom?,Euro,Dollar,Pound Yen,C
+Which is the largest ocean on Earth?,Indian,Atlantic,Pacific,Arctic,C
+Who wrote the national anthem of India?,Rabindranath Tagore,Bankim Chandra Chatterjee,Sarojini Naidu,Sri Aurobindo,A
+What is the capital of Italy?,Rome,Venice,Florence,Milan,A
+Which gas is most abundant in the Earth's atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,B
+Who was the first President of the United States?,Thomas Jefferson,George Washington,Abraham Lincoln,John Adams,B
+Which is the largest continent?,Africa,Europe,Asia,North America,C
+What type of galaxy is the Milky Way?,Elliptical,Irregular,Spiral,Cluster,C
+Which planet is closest to the sun?,Venus,Mercury,Mars,Earth,B
+What is the smallest unit of life?,Molecule,Atom,Cell,Organ,C
+Which mountain is the highest in the world?,K2,Mount Kilimanjaro,Mount Everest,Mount McKinley,C
+Who was known as the Iron Man of India?,Mahatma Gandhi,Sardar Vallabhbhai Patel,Subhash Chandra Bose,B.R. Ambedkar,B
+What is the national sport of Canada?,Cricket,Soccer,Ice Hockey,Rugby,C
+In which year did the Titanic sink?,1905,1910,1912,1920,C
+Which river flows through London?,Thames,Seine,Danube,Amazon,A
+What is the chemical symbol for gold?,Go,G,Gd,Au,D
+Who invented the light bulb?,Nikola Tesla,Thomas Edison,Alexander Graham Bell,James Watt,B
+Which is the fastest land animal?,Cheetah,Lion,Leopard,Jaguar,A
+Who composed the Four Seasons?,Mozart,Beethoven,Vivaldi,Chopin,C
+What does the CPU stand for?,Central Power Unit,Central Processing Unit,Control Processing Unit,Computer Processing Unit,B
+Who was the first woman to win a Nobel Prize?,Marie Curie,Rosalind Franklin,Dorothy Hodgkin,Malala Yousafzai,A  
